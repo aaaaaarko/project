@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+=======
+
+ i aM GOOD
+The MediaWiki software is used by tens of thousands of websites and thousands of companies and organizations. It powers Wikipedia and also this website. MediaWiki helps you collect and organize knowledge and make it available to people. It's powerful, multilingual, free and open, extensible, customizable, reliable, and free of charge. Find out more and if MediaWiki is right for you.
+>>>>>>> a33503c... i havce added big content
 i i am bad
+
+
